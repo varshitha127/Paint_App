@@ -2,6 +2,11 @@
 
 A playful, extensible drawing app built with Python and Tkinter.
 
+## Demo Screenshots:
+<img width="1674" height="976" alt="Screenshot 2025-07-12 160610" src="https://github.com/user-attachments/assets/9f54cc7c-e4c6-4236-a242-55fe994c68a2" />
+<img width="1914" height="1010" alt="Screenshot 2025-07-12 160636" src="https://github.com/user-attachments/assets/df49f1bd-16ab-419c-a8ee-85c6f55c5182" />
+<img width="1909" height="990" alt="Screenshot 2025-07-12 161058" src="https://github.com/user-attachments/assets/8d0ee265-0806-49ae-8ef9-cdc67e8f447e" />
+
 ## Features
 - Multiple layers with add, delete, reorder, rename, and visibility toggle
 - Brush, eraser, shapes, and more
